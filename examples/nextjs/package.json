@@ -1,0 +1,19 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@uppy/core": "^1.16.1",
+    "@uppy/dashboard": "^1.16.1",
+    "@uppy/react": "^1.11.3",
+    "@uppy/xhr-upload": "^1.7.0",
+    "next": "^10.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
